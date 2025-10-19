@@ -19,4 +19,12 @@ Utilizing a dataset of 1 million bank transactions to create a classifier that d
 
 <br clear="left"/>
 
+<img align="left" width="250" height="150" src="1000_F_171976553_AqYIm6wexgJQXAWqf03iHQsQ9ez6rCer.jpg" style="margin-right: 20px; margin-bottom: 10px;">
 
+**[Ad hoc Analysis](https://github.com/Zyjones/ZJones-Instagram-Ad-hoc-Analysis.git)**
+
+Generating an ad-hoc report on your companies database.
+
+[Link to GitHub Repository](https://github.com/Zyjones/ZJones-Instagram-Ad-hoc-Analysis.git)
+
+<br clear="left"/>
