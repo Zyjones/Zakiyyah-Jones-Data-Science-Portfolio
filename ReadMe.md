@@ -28,3 +28,13 @@ Generating an ad-hoc report on your companies database.
 [Link to GitHub Repository](https://github.com/Zyjones/ZJones-Instagram-Ad-hoc-Analysis.git)
 
 <br clear="left"/>
+
+```
+const Zakiyyah = {
+    pronouns: "she" | "her",
+    code: ["Python", "SQL"],
+    askMeAbout: ["data science", "data analysts"],
+    funFact: "Pandas are my favorite animal and library!"
+};
+```
+
