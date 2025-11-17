@@ -4,6 +4,15 @@ I am Zakiyyah Jones! Through my work in special education as a Registered Behavi
 - **Email**: [zyjones304@gmail.com](zyjones304@gmail.com)
 - **LinkedIn**: [http://www.linkedin.com/in/zakiyyah-jones-439854201](http://www.linkedin.com/in/zakiyyah-jones-439854201)
 
+```
+const Zakiyyah = {
+    pronouns: "she" | "her",
+    code: ["Python", "SQL"],
+    askMeAbout: ["data science", "data analysts"],
+    funFact: "Pandas are my favorite animal and library!"
+};
+```
+
 ## Achievements
 - Achieved 3rd place in the 2025 Bloomberg Hackathon for developing a web application to connect tutors
 and tutees.
@@ -28,3 +37,4 @@ Generating an ad-hoc report on your companies database.
 [Link to GitHub Repository](https://github.com/Zyjones/ZJones-Instagram-Ad-hoc-Analysis.git)
 
 <br clear="left"/>
+
